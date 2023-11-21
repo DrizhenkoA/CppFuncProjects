@@ -5,3 +5,4 @@
 - calc if else if - калькулятор с выбором операций (с использованием if else if)
 - blitz(while).cpp - блиц по циклам while
 - bones_game.cpp - игра "кости"
+- sortirovki_21_11_23.cpp - сортировка пузырьком, вставкой и шейкерная
