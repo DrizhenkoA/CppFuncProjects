@@ -48,7 +48,7 @@ void addDoubleArr(int**& arr, int* newarr) {
 void addElementIndex(int** &arr, int* newarr, int index) {
 	int size = _msize(arr) / sizeof(arr[0]);
 	if (index < 0 || index > size - 1) {
-		cout << "SASISASISASISASISASISASISASISASI" << endl;
+		cout << "------------" << endl;
 		return;
 	}
 	int size2 = _msize(newarr) / sizeof(newarr[0]);
